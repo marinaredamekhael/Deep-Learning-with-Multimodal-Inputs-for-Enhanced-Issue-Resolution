@@ -18,15 +18,6 @@ Evaluate the performance of FusionNet across different data combinations (text, 
 
 ## Related Work
 
-### Text-Based Models:
-- Use only text data for classification.
-- Often limited by the inability to capture context from other modalities (images, code).
-- Examples: TF-IDF, RNNs for text classification.
-
-### Multimodal Models:
-- Combine multiple data sources: text, images, and code.
-- Improve classification accuracy by leveraging diverse information.
-- Examples: FusionNet (text + image + code), multimodal CNNs.
 
 | Feature              | Text-only Models         | Multimodal Models         |
 |----------------------|--------------------------|---------------------------|
