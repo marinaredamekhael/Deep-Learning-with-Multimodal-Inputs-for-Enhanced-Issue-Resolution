@@ -166,7 +166,3 @@ The dataset used in this project can be accessed via the following link:
 - **FusionNet𝑇𝐼𝐶 (Text, Image, Code)** outperformed other models, with an **F1-score improvement of 5.07% to 14.12%**.
 - Combining text, image, and code improves issue classification accuracy.
 - Multimodal approaches are essential for handling diverse issue report data.
-
----
-
-## Thank You!
