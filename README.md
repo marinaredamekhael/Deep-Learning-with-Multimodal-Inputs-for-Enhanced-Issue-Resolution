@@ -16,6 +16,13 @@ Evaluate the performance of FusionNet across different data combinations (text, 
 
 ---
 
+## Dataset
+
+The dataset used in this project can be accessed via the following link:  
+[Download Dataset](https://drive.google.com/file/d/1QbxubJ9nYoogzTI9a-LsG1DhCYgq_vwA/view?usp=sharing)
+
+---
+
 ## Related Work
 
 
